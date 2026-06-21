@@ -1,0 +1,45 @@
+img {
+  width: 150px;
+  float: left;
+  margin-left: 20px;   
+  margin-top: 30px;  
+  margin-bottom: 30px;
+  border: 1px solid gray;
+}
+
+img.nf {
+  height: 80px;
+}
+
+img.hb {
+  height: 80px;
+  padding: 10px;
+}
+
+img.hu {
+  height: 80px;
+  padding: 10px;
+}
+
+img.pr {
+  height: 80px;
+}
+
+h2 {
+  margin-left: 20px;
+  margin-bottom: 35px;   
+}
+
+h3 {
+  clear: both;
+  width: 700px;
+  text-align: center;
+  margin-top: 70px;     
+  text-transform: capitalize;
+}
+
+h3 span {
+  color: rgb(28, 59, 85);
+  font-weight: bold;
+  margin-left: 10px;
+}
